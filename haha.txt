@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hahaha it is haha
+=======
+sainuu agaa
+>>>>>>> a6ec17f3f69743d1da219f8539da65f1048e74a5
